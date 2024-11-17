@@ -14,5 +14,7 @@ This repository contains the project for the Git exercise in Unit 5. The project
 - Git & GitHub
 
 ## Instructions to Open the Website
-1. Clone the repository:
+1. Click this link:
+https://adriwebo.github.io/Exercise_Unit5_website/
+
 
